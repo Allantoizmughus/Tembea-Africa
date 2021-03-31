@@ -68,7 +68,10 @@ banner>a>h4:hover{
 }
 #services>h3{
     text-align: left;
-    color: rgba(255, 255, 255, 0.733);
+    color: yellow;
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 10px;
 }
 #activities{
     margin-left: auto;
