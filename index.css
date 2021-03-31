@@ -106,6 +106,8 @@ banner>a>h4:hover{
 #about{
     font-size: large;
     font-weight: 800;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 #bannerhome{
     font-size: larger;
