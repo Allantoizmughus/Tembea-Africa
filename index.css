@@ -96,6 +96,9 @@ banner>a>h4:hover{
 }    
 #contacts{
     color: chartreuse;
+    font-size: larger;
+    margin-left: 330px;
+    margin-top: 10px;
 } 
 #about{
     font-size: large;
